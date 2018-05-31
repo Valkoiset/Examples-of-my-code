@@ -1,4 +1,4 @@
-/* Here is the simple game written by me where user has to guess the number from a to b.
+/* Here is the simple game written by myself where user has to guess the number from a to b.
    At the start a random number is initialized. After every attempt the window with a tip
    appears, it helps user to understand whether to write a bigger or a smaller number untill 
    the correct number is inputed.
