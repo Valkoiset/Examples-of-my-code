@@ -16,7 +16,7 @@ public class GuessTheNumber {
         main.guessTheNumber(1,10);
     }
 
-    public void guessTheNumber(int a, int b) {     // a, b - are borders of random number
+    public void guessTheNumber(int a, int b) {     // a, b - are borders of a random number
 
 
         int random_number = a + (int) (Math.random() * b);      // Initializing random number
