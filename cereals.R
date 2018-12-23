@@ -1,4 +1,7 @@
 
+
+# link to the app: https://valkoiset.shinyapps.io/cereals/
+
 library(devtools)
 library(shiny)
 library(shinythemes)
