@@ -1,4 +1,4 @@
-# Analysis of cereals dataset using shiny library
+# Analysis and visualisation of cereals dataset using shiny library
 
 # link to the app: https://valkoiset.shinyapps.io/cereals/
 
