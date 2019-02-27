@@ -1,6 +1,6 @@
 # Analysis of movies dataset
 
-
+library(ggplot2)
 library(ggplot2movies)
 library(dplyr)
 library(tidyverse)
