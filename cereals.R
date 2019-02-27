@@ -1,4 +1,4 @@
-# Analysis and visualisation of cereals dataset using shiny library
+# Shiny web application: analysis and visualisation of cereals dataset
 
 # link to the app: https://valkoiset.shinyapps.io/cereals/
 
@@ -20,7 +20,7 @@ cereal$shelf <- NULL
 
 attach(cereal)
 
-# DATA PREPARATION
+# DATA PREPARATION ---------------------------------------------------------------------
 # checking  that these data are numeric and not something that doesn't work
 sapply(cereal, mode)
 sapply(cereal, class)
