@@ -1,4 +1,6 @@
 
+/* A brief analysis of retail customers data as part of my major course task of my uni programme */
+
 %let Type = css;
 %let Type = ins;
 
