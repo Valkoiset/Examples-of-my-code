@@ -18,12 +18,6 @@ top10 <- movies %>%
   head(10) %>%
   mutate(title = fct_reorder(title, rating))
 
-top10.bar <- ggplot(top10, aes(title, rating, fill = "dar green"))
-top10.bar +
-  geom_col() +
-  theme(legend.position = "none") +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1))
-
 # dividing by genres
 movies <- within (movies, { 
   Genre = ifelse (Action == 1, "Action" ,
