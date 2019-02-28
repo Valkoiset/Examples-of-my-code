@@ -1,4 +1,4 @@
-# Analysis of movies dataset
+# A brief analysis of movies dataset
 
 library(ggplot2)
 library(ggplot2movies)
