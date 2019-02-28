@@ -1,4 +1,4 @@
-
+ 
 /* Deep analysis of customers' data as part of major course task of my uni programme.
    The aim of the project was to identify customers' creditworthiness based on the certain data about their marital
    status, income, propensity to consume etc. As a main tool used for modelling credit risk is the vintage analysis which
