@@ -1,7 +1,7 @@
  
 /* Deep analysis of customers' data as part of major course task of my uni programme.
    The aim of the project was to identify customers' creditworthiness based on the certain data about their marital
-   status, income, propensity to consume etc. As a main tool used for modelling credit risk is the vintage analysis which
+   status, income, propensity to consume etc. As a main tool used for modelling credit risk - the vintage analysis which
    determines the probability an account will default over the next 12 months */
 
 %let Type = css;
