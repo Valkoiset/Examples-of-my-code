@@ -1,3 +1,6 @@
+
+# Analysis of population density with the data downloaded from eurostat
+
 library(eurostat)
 library(dplyr)
 library(ggplot2)
