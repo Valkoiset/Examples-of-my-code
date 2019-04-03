@@ -1,3 +1,4 @@
+# Final project for data visualisation course at my university
 # Shiny web application: analysis and visualisation of cereals dataset
 
 # link to the app: https://valkoiset.shinyapps.io/cereals/
