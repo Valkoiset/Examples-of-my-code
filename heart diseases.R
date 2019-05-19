@@ -1,5 +1,9 @@
 
 
+# Prediction of heart diseases with different types of Machine Learning models as the final project of Big Data subject at my
+# uni programme.
+# Models used in project: Logistic Regression, Random Forest, Decision Tree, Rpart and Neural Network.
+
 library(dplyr)
 library(caret)
 library(DataExplorer)
