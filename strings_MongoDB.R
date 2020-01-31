@@ -12,7 +12,6 @@ mydata <- mydata %>% mutate_at(.vars = vars(s_country_name, s_array_city), .funs
   mutate(s_array_city = gsub("\\[|\\]", "", s_array_city)) 
 
 cities <- strsplit(mydata$s_array_city, split = ";")
-unique(cities[[233]])[[1]]
 
 for (row in seq_along(cities)) {
   if (length(cities[[row]]) > 1) {
