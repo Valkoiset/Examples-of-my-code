@@ -1,8 +1,6 @@
 
 
 library(dplyr)
-library(stringr)
-library(splitstackshape)
 
 rm(list = ls())
 setwd("C:/Users/oleksandr-romanchenk/Desktop/Alfredo")
